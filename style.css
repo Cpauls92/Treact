@@ -1281,6 +1281,10 @@ align-items: center;
         font-size: 18px;
     }
 
+    .values__value {
+        margin: 0;
+    }
+
     .values__img {
         width: 100%;
     }
@@ -1295,5 +1299,21 @@ align-items: center;
 
     .faqs__container {
         margin-top: 300px;
+    }
+
+    .pricing__plans {
+        text-align: center;
+    }
+
+    .pricing__plan--1 {
+        padding: 36px;
+    }
+
+    .pricing__plan--title {
+        font-size: 18px;
+    }
+
+    .pricing__plan--price {
+        font-size: 28px;
     }
 }
